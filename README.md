@@ -13,6 +13,6 @@ At the Kirchhausen Lab, I've worked on the Incasem [https://github.com/kirchhaus
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a4da3109-59e9-45f1-bcdc-7fa9772562d4" alt="Harvard_Medical_School_shield" width="150" height="150" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/67dd2b24-e5e2-40c7-b995-295077d7daa9" alt="Screenshot" width="200" height="150" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/67dd2b24-e5e2-40c7-b995-295077d7daa9" alt="Screenshot" width="250" height="120" style="margin-right: 20px;">
   <img src="https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24" alt="Battery" width="200" height="180">
 </p>
