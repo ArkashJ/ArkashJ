@@ -8,4 +8,4 @@ With a keep passion for System Design, I write a monthly blog, [https://medium.c
 At the Kirchhausen Lab, I've worked on the Incasem [https://github.com/kirchhausenlab/incasem] and CryoSamba [https://x.com/KirchhausenLab/status/1813651584427184490] projects so far, automating the entire workflows, introducing vanilla architectural decisions such as local config and runtime managers, custom loggers, end to end tests, benchmarks, scripts and lightweight APIs for ease-to-use GUIs.
 
 Currently I'm building a UNet architecture for Image Segmentation and a Self-Supervised Vision Transformer for Object Detection.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkashJ&show_icons=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkashJ&show_icons=false&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
