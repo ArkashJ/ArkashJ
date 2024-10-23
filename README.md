@@ -18,6 +18,6 @@ At the Kirchhausen Lab, I've worked on the Incasem [https://github.com/kirchhaus
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71" alt="Boston_Children's_Hospital_logo" width="250" height="250">
-  <img src="https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24" alt="Battery" width="250" height="250">
+  <img src="https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71" alt="Boston_Children's_Hospital_logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24" alt="Battery" width="200" height="200">
 </p>
