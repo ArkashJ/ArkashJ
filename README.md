@@ -12,12 +12,12 @@ At the Kirchhausen Lab, I've worked on the Incasem [https://github.com/kirchhaus
 **Currently I'm building a UNet architecture for Image Segmentation and a Self-Supervised Vision Transformer for Object Detection.**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4da3109-59e9-45f1-bcdc-7fa9772562d4" alt="Harvard_Medical_School_shield" width="200" height="200" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/b05f78bf-d413-4158-9b69-f3d76bac2f4f" alt="spark" width="200" height="200" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/a4da3109-59e9-45f1-bcdc-7fa9772562d4" alt="Harvard_Medical_School_shield" width="150" height="150" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/b05f78bf-d413-4158-9b69-f3d76bac2f4f" alt="spark" width="150" height="150" style="margin-right: 20px;">
   <img src="https://github.com/user-attachments/assets/67dd2b24-e5e2-40c7-b995-295077d7daa9" alt="Screenshot" width="250" height="150" style="margin-right: 20px;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71" alt="Boston_Children's_Hospital_logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71" alt="Boston_Children's_Hospital_logo" width="300" height="200">
   <img src="https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24" alt="Battery" width="200" height="200">
 </p>
