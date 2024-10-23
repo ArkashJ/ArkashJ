@@ -11,15 +11,11 @@ At the Kirchhausen Lab, I've worked on the Incasem [https://github.com/kirchhaus
 *Currently I'm building a UNet architecture for Image Segmentation and a Self-Supervised Vision Transformer for Object Detection.*
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkashJ&show_icons=false&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Harvard_Medical_School_shield svg](https://github.com/user-attachments/assets/a4da3109-59e9-45f1-bcdc-7fa9772562d4)
-![spark](https://github.com/user-attachments/assets/b05f78bf-d413-4158-9b69-f3d76bac2f4f)
-![Boston_Children's_Hospital_logo](https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71)
-![Battery](https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24)
-![Screenshot 2024-10-23 at 1 55 12 PM](https://github.com/user-attachments/assets/24dda696-6139-4a01-8a64-8e95661c3ca6)
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4da3109-59e9-45f1-bcdc-7fa9772562d4" alt="Harvard_Medical_School_shield" width="150" height="150">
-  <img src="https://github.com/user-attachments/assets/b05f78bf-d413-4158-9b69-f3d76bac2f4f" alt="spark" width="150" height="150">
-  <img src="https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71" alt="Boston_Children's_Hospital_logo" width="150" height="150">
-  <img src="https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24" alt="Battery" width="150" height="150">
-  <img src="https://github.com/user-attachments/assets/24dda696-6139-4a01-8a64-8e95661c3ca6" alt="Screenshot" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/a4da3109-59e9-45f1-bcdc-7fa9772562d4" alt="Harvard_Medical_School_shield" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/b05f78bf-d413-4158-9b69-f3d76bac2f4f" alt="spark" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/1d1d7fd4-8dc5-497a-acda-688726044c71" alt="Boston_Children's_Hospital_logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/83b29b3b-855e-4ae6-8435-d20969862b24" alt="Battery" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/24dda696-6139-4a01-8a64-8e95661c3ca6" alt="Screenshot" width="200" height="200">
 </p>
