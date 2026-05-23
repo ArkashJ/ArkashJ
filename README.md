@@ -75,18 +75,18 @@ I publish weekly long-form essays at **[arkash.substack.com](https://arkash.subs
 </td>
 <td width="50%" valign="top">
 
-**Top languages** · by bytes across owned repos
+**Top languages** · by bytes across all accessible repos (incl. private/org)
 
 | | | |
 |---|---|---:|
-| 🟧 | Jupyter Notebook | 45.6% |
-| 🟫 | Java | 22.7% |
-| 🟦 | Python | 12.0% |
-| 🟦 | TypeScript | 7.6% |
-| 🟦 | Go | 6.3% |
-| 🟨 | MDX | 6.2% |
-| 🟥 | HTML | 4.8% |
-| 🟪 | C++ | 1.3% |
+| 🟨 | JavaScript | 28.2% |
+| 🟦 | Python (Django) | 21.0% |
+| 🟧 | Jupyter Notebook | 14.8% |
+| 🟪 | CSS | 11.4% |
+| 🟥 | HTML | 10.1% |
+| 🟦 | TypeScript | 6.5% |
+| 🟫 | Java | 1.8% |
+| 🟪 | TeX | 1.8% |
 
 </td>
 </tr>

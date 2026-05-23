@@ -5,6 +5,13 @@ name: Generate static metrics
 # depend on a public Vercel service being available at render time.
 #
 # Manual run: Actions tab -> "Generate static metrics" -> Run workflow.
+#
+# Private/org repo coverage: the default GITHUB_TOKEN only sees this repo.
+# To include private repos and Benmore-Studio / Patriot-Compliance /
+# kirchhausenlab work in the languages stats, create a PAT at
+# https://github.com/settings/tokens with `repo` + `read:org` scopes and
+# add it as a repo secret named METRICS_TOKEN. The workflow auto-uses it
+# when set, otherwise falls back to GITHUB_TOKEN (public-only view).
 
 on:
   schedule:
@@ -41,6 +48,11 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_ignored: >-
+            html, css, tex, makefile, shell, dockerfile, mathematica
+          # Looks at every repo the token can see — set METRICS_TOKEN
+          # to surface private/org repos (Benmore-Studio, etc.).
+          plugin_languages_details: bytes-size, percentage
           filename: assets/languages.svg
 
       - name: Commit and push
