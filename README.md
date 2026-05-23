@@ -47,6 +47,14 @@ I publish weekly long-form essays at **[arkash.substack.com](https://arkash.subs
 
 ### Live activity
 
+<p align="left">
+  <a href="https://github.com/ArkashJ"><img alt="Stats"          src="./assets/metrics.svg"   width="48%" /></a>
+  <a href="https://github.com/ArkashJ"><img alt="Top languages"  src="./assets/languages.svg" width="48%" /></a>
+</p>
+
+<details>
+<summary>Stats as text (always-works fallback)</summary>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -83,6 +91,8 @@ I publish weekly long-form essays at **[arkash.substack.com](https://arkash.subs
 </td>
 </tr>
 </table>
+
+</details>
 
 <p align="left">
   <img alt="Followers"   src="https://img.shields.io/github/followers/ArkashJ?style=for-the-badge&logo=github&label=followers&color=0a66c2" />
