@@ -75,18 +75,17 @@ I publish weekly long-form essays at **[arkash.substack.com](https://arkash.subs
 </td>
 <td width="50%" valign="top">
 
-**Top languages** · by bytes across all accessible repos (incl. private/org)
+**Top languages** · by personal commit volume across all 79 repos I touch
 
-| | | |
+| | | Commits |
 |---|---|---:|
-| 🟨 | JavaScript | 28.2% |
-| 🟦 | Python (Django) | 21.0% |
-| 🟧 | Jupyter Notebook | 14.8% |
-| 🟪 | CSS | 11.4% |
-| 🟥 | HTML | 10.1% |
-| 🟦 | TypeScript | 6.5% |
-| 🟫 | Java | 1.8% |
-| 🟪 | TeX | 1.8% |
+| 🟦 | Python (Django + Lab ML) | **1,129** |
+| 🟧 | Jupyter Notebook (kirchhausenlab) | **1,300** |
+| 🟨 | JavaScript / TypeScript | ~300 |
+| 🟥 | HTML / CSS | ~80 |
+| 🟫 | Java (legacy / coursework) | ~50 |
+
+<sub>Python spread: Ben130, pcs_backend, BizSult, suntheory, spatialdino, Cryosamba, … (7 repos). Jupyter is one outlier — `spatialdino_legacy` (3.9 GB lab codebase). Byte-weighted stats over-index on that one repo and on minified vendor JS.</sub>
 
 </td>
 </tr>
