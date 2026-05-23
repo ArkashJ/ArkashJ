@@ -48,12 +48,12 @@ I publish weekly long-form essays at **[arkash.substack.com](https://arkash.subs
 ### Live activity
 
 <p align="left">
-  <a href="https://github.com/ArkashJ"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ArkashJ&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" /></a>
-  <a href="https://github.com/ArkashJ"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkashJ&layout=compact&hide_border=true&theme=tokyonight" /></a>
+  <a href="https://github.com/ArkashJ"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ArkashJ&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400" /></a>
+  <a href="https://github.com/ArkashJ"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkashJ&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" /></a>
 </p>
 
 <p align="left">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
