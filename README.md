@@ -47,13 +47,47 @@ I publish weekly long-form essays at **[arkash.substack.com](https://arkash.subs
 
 ### Live activity
 
-<p align="left">
-  <a href="https://github.com/ArkashJ"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ArkashJ&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400" /></a>
-  <a href="https://github.com/ArkashJ"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkashJ&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Stats** · snapshot 2026-05-23
+
+| | |
+|---|---:|
+| Public repos | **29** |
+| Followers | **20** |
+| Contributions (last yr) | **7,214** |
+| Commits (last yr) | **349** |
+| PRs opened (last yr) | **20** |
+| Repos contributed to | **5** |
+
+<sub>Refreshed nightly by `.github/workflows/generate-metrics.yml`.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Top languages** · by bytes across owned repos
+
+| | | |
+|---|---|---:|
+| 🟧 | Jupyter Notebook | 45.6% |
+| 🟫 | Java | 22.7% |
+| 🟦 | Python | 12.0% |
+| 🟦 | TypeScript | 7.6% |
+| 🟦 | Go | 6.3% |
+| 🟨 | MDX | 6.2% |
+| 🟥 | HTML | 4.8% |
+| 🟪 | C++ | 1.3% |
+
+</td>
+</tr>
+</table>
 
 <p align="left">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img alt="Followers"   src="https://img.shields.io/github/followers/ArkashJ?style=for-the-badge&logo=github&label=followers&color=0a66c2" />
+  <img alt="Stars"       src="https://img.shields.io/github/stars/ArkashJ?style=for-the-badge&logo=github&label=stars&color=f1c40f" />
+  <img alt="Streak"      src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
