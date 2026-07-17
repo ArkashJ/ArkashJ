@@ -11,6 +11,15 @@
   <a href="https://kirchhausen.hms.harvard.edu/people/arkash-jain-ms-bs"><img alt="Harvard" src="https://img.shields.io/badge/Harvard-Kirchhausen_Lab-A41034?style=flat-square&labelColor=0A1628"></a>
 </p>
 
+<p align="center">
+  <img alt="Followers"   src="https://img.shields.io/github/followers/ArkashJ?style=for-the-badge&logo=github&label=followers&color=0a66c2" />
+  <img alt="Stars"       src="https://img.shields.io/github/stars/ArkashJ?style=for-the-badge&logo=github&label=stars&color=f1c40f" />
+</p>
+
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
 ---
 
 ### What I'm doing now
@@ -40,64 +49,6 @@ Internships at **[Battery Ventures](https://www.battery.com)** (2× sourcing + d
 - **[NEXMARK-Benchmark](https://github.com/ArkashJ/NEXMARK-Benchmark)** — Streaming-systems benchmark vs. Apache Flink.
 - **[CloudComputing](https://github.com/ArkashJ/CloudComputing)** — MapReduce, Spark, distributed kv-store.
 - **[Personal-Website](https://github.com/ArkashJ/Personal-Website)** — Next.js 15 · TypeScript strict · MDX · Vercel.
-
-### Writing
-
-I publish weekly long-form essays at **[arkash.substack.com](https://arkash.substack.com)** on AI hardware, finance, distributed systems, geopolitics, and venture strategy. Distributed-systems paper reviews on **[medium.com/@arkjain](https://medium.com/@arkjain)**.
-
-### Live activity
-
-<p align="left">
-  <a href="https://github.com/ArkashJ"><img alt="Stats"          src="./assets/metrics.svg"   width="48%" /></a>
-  <a href="https://github.com/ArkashJ"><img alt="Top languages"  src="./assets/languages.svg" width="48%" /></a>
-</p>
-
-<details>
-<summary>Stats as text (always-works fallback)</summary>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Stats** · snapshot 2026-05-23
-
-| | |
-|---|---:|
-| Public repos | **29** |
-| Followers | **20** |
-| Contributions (last yr) | **7,214** |
-| Commits (last yr) | **349** |
-| PRs opened (last yr) | **20** |
-| Repos contributed to | **5** |
-
-<sub>Refreshed nightly by `.github/workflows/generate-metrics.yml`.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Top languages** · by personal commit volume across all 79 repos I touch
-
-| | | Commits |
-|---|---|---:|
-| 🟦 | Python (Django + Lab ML) | **1,129** |
-| 🟧 | Jupyter Notebook (kirchhausenlab) | **1,300** |
-| 🟨 | JavaScript / TypeScript | ~300 |
-| 🟥 | HTML / CSS | ~80 |
-| 🟫 | Java (legacy / coursework) | ~50 |
-
-<sub>Python spread: Ben130, pcs_backend, BizSult, suntheory, spatialdino, Cryosamba, … (7 repos). Jupyter is one outlier — `spatialdino_legacy` (3.9 GB lab codebase). Byte-weighted stats over-index on that one repo and on minified vendor JS.</sub>
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<p align="left">
-  <img alt="Followers"   src="https://img.shields.io/github/followers/ArkashJ?style=for-the-badge&logo=github&label=followers&color=0a66c2" />
-  <img alt="Stars"       src="https://img.shields.io/github/stars/ArkashJ?style=for-the-badge&logo=github&label=stars&color=f1c40f" />
-  <img alt="Streak"      src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
 
 ---
 
