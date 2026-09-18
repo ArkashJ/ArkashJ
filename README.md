@@ -16,9 +16,9 @@
   <img alt="Stars"       src="https://img.shields.io/github/stars/ArkashJ?style=for-the-badge&logo=github&label=stars&color=f1c40f" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+</p> -->
 
 ---
 
