@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://www.arkashj.com"><img alt="arkashj.com" src="https://img.shields.io/badge/site-arkashj.com-5EEAD4?style=flat-square&labelColor=0A1628"></a>
 <a href="https://www.linkedin.com/in/arkashj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in/arkashj-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A1628"></a>
-<a href="https://x.com/ArkashJ__"><img alt="X" src="https://img.shields.io/badge/X-@ArkashJ__-000?style=flat-square&logo=x&logoColor=white&labelColor=0A1628"></a>
 <a href="https://arkash.substack.com"><img alt="Substack" src="https://img.shields.io/badge/Substack-arkash-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=0A1628"></a>
 <a href="https://medium.com/@arkjain"><img alt="Medium" src="https://img.shields.io/badge/Medium-@arkjain-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=0A1628"></a>
 <a href="https://orcid.org/0000-0003-2692-7472"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--2692--7472-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=0A1628"></a>
