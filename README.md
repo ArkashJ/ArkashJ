@@ -13,29 +13,19 @@
 </p>
 
 ---
-
 ### Now
-
-**Head of Forward Deployed Engineering at [Benmore Technologies](https://benmore.tech)** — employee #2; leading the FDE practice across SMB AI engagements in SaaS, healthcare, NIL athletics, and compliance.
-
-Previously an ML researcher at the **[Kirchhausen Lab](https://kirchhausen.hms.harvard.edu/people/arkash-jain-ms-bs)**, Harvard Medical School / Boston Children's Hospital. First-authored **[SpatialDINO](https://www.biorxiv.org/content/10.1101/2025.02.04.636474)**, the first 3D self-supervised vision transformer for cryo-electron tomography, outperforming a prior approach co-led by a Nobel laureate.
+**Head of Forward Deployed Engineering at [Benmore Technologies](https://benmore.tech)** — employee #2; leading the FDE practice across SMB AI engagements.
+Previously an ML researcher at **[Kirchhausen Lab](https://kirchhausen.hms.harvard.edu/people/arkash-jain-ms-bs)**, Harvard Medical School.
 
 ### Background
-
 **Boston University, 2024 — Magna Cum Laude:** combined BA Mathematics + CS and MS Computer Science in a 4-year accelerated program. **Marvin Freedman Scholar** (1/6, math dept) · **NSF UROP Scholar** (1/5 freshmen university-wide).
-
 Internships: **[Battery Ventures](https://www.battery.com)** — 2× sourcing + diligence · **[Boston Children's Hospital](https://www.childrenshospital.org/)** — ALS resource discovery + WCAG 2.1 AA · **ZeroSync** — production Rust, NATS JetStream, Merkle-tree POC.
 
 ### Publications
-
-- **[SpatialDINO](https://www.biorxiv.org/content/10.1101/2025.02.04.636474)** — *BioRxiv*, 2025 · first author
+- **[SpatialDINO](https://www.biorxiv.org/content/10.1101/2025.02.04.636474)** — *BioRxiv*, 2025 · first author - first 3D self-supervised vision transformer for cryo-electron tomography, outperforming a prior approach co-led by a Nobel laureate.
 - **[Close-up of Vesicular ER Exit Sites by FIB-SEM](https://doi.org/10.1083/jcb.202504178)** — *Journal of Cell Biology*, 2026
 - **UNET for Semi-Supervised Segmentation** — *Journal of Cell Biology*, 2025
 - **[Ultrafast 2DIR of supercritical fluids](https://doi.org/10.1063/5.0118395)** — *Journal of Chemical Physics*, 2022 · first author
-
-### Open source
-
-**[pytorch/pytorch#144779](https://github.com/pytorch/pytorch/issues/144779)** — RDZV / Infiniband multi-node training fix · **[merkle_tree](https://github.com/ArkashJ/merkle_tree)** — tamper-evident sync POC, Rust + SHA-256 · **[Raft](https://github.com/ArkashJ/Raft)** — consensus from scratch in Go · **[NEXMARK-Benchmark](https://github.com/ArkashJ/NEXMARK-Benchmark)** — streaming benchmark vs. Apache Flink · **[CloudComputing](https://github.com/ArkashJ/CloudComputing)** — MapReduce, Spark, distributed kv-store · **[Personal-Website](https://github.com/ArkashJ/Personal-Website)** — Next.js 15, TypeScript strict, MDX, Vercel.
 
 ---
 
