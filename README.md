@@ -9,10 +9,6 @@
 <a href="https://medium.com/@arkjain"><img alt="Medium" src="https://img.shields.io/badge/Medium-@arkjain-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=0A1628"></a>
 <a href="https://orcid.org/0000-0003-2692-7472"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--2692--7472-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=0A1628"></a>
 <a href="https://kirchhausen.hms.harvard.edu/people/arkash-jain-ms-bs"><img alt="Harvard" src="https://img.shields.io/badge/Harvard-Kirchhausen_Lab-A41034?style=flat-square&labelColor=0A1628"></a>
-<br>
-<img alt="Followers" src="https://img.shields.io/github/followers/ArkashJ?style=for-the-badge&logo=github&label=followers&color=0a66c2">
-<img alt="Stars" src="https://img.shields.io/github/stars/ArkashJ?style=for-the-badge&logo=github&label=stars&color=f1c40f">
-<br>
 <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400">
 </p>
 
