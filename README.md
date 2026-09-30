@@ -25,4 +25,3 @@ Internships: **[Battery Ventures](https://www.battery.com)** — 2× sourcing + 
 - **[Close-up of Vesicular ER Exit Sites by FIB-SEM](https://doi.org/10.1083/jcb.202504178)** — *Journal of Cell Biology*, 2026
 - **UNET for Semi-Supervised Segmentation** — *Journal of Cell Biology*, 2025
 - **[Ultrafast 2DIR of supercritical fluids](https://doi.org/10.1063/5.0118395)** — *Journal of Chemical Physics*, 2022 · first author
----
