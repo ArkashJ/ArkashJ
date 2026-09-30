@@ -9,7 +9,8 @@
 <a href="https://orcid.org/0000-0003-2692-7472"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--2692--7472-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=0A1628"></a>
 <a href="https://kirchhausen.hms.harvard.edu/people/arkash-jain-ms-bs"><img alt="Harvard" src="https://img.shields.io/badge/Harvard-Kirchhausen_Lab-A41034?style=flat-square&labelColor=0A1628"></a>
 <img alt="Streak" src="https://streak-stats.demolab.com?user=ArkashJ&theme=tokyonight&hide_border=true&cache_seconds=86400">
-</p>
+</p><p align="center"><a href="https://www.arkashj.com">arkashj.com</a> · <a href="mailto:arkash@benmore.tech">arkash@benmore.tech</a></p>
+
 
 ---
 ### Now
@@ -25,7 +26,4 @@ Internships: **[Battery Ventures](https://www.battery.com)** — 2× sourcing + 
 - **[Close-up of Vesicular ER Exit Sites by FIB-SEM](https://doi.org/10.1083/jcb.202504178)** — *Journal of Cell Biology*, 2026
 - **UNET for Semi-Supervised Segmentation** — *Journal of Cell Biology*, 2025
 - **[Ultrafast 2DIR of supercritical fluids](https://doi.org/10.1063/5.0118395)** — *Journal of Chemical Physics*, 2022 · first author
-
 ---
-
-<p align="center"><a href="https://www.arkashj.com">arkashj.com</a> · <a href="mailto:arkash@benmore.tech">arkash@benmore.tech</a></p>
