@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Arkash </h1>
-
 <p align="center">
   <i>AI researcher · Forward-deployed engineer · Builder · <a href="https://www.arkashj.com">arkashj.com</a></i>
 </p>
